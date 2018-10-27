@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Use.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Room.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RoomNavigation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Exit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InputAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Go.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InteractableItems.cs" Line="122" Column="95" />
+      <File FileName="Assets\Scripts\Interaction.cs" Line="11" Column="39" />
+      <File FileName="Assets\Scripts\InteractableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Examine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Take.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActionResponse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangeRoomResponse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Use.cs" Line="10" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
